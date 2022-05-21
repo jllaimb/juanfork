@@ -39,7 +39,7 @@ public class forkeo extends JFrame {
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
 		
-		JLabel lblNewLabel = new JLabel("Hola mundo\uD83D\uDE97");
+		JLabel lblNewLabel = new JLabel("Adios Mundo Cruel\uD83D\uDE97");
 		contentPane.add(lblNewLabel, BorderLayout.CENTER);
 	}
 
